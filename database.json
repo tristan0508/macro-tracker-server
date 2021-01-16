@@ -1,0 +1,83 @@
+{
+  "users": [
+    {
+      "username": "test",
+      "firstName": "test",
+      "lastName": "test",
+      "emailAddress": "test@gmail.com",
+      "id": 1
+    }
+  ],
+  "foodLogs": [],
+  "meals": [],
+  "foodItems": [
+    {
+      "apiId": 9003,
+      "userId": 1,
+      "name": "apple",
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/apple.jpg",
+      "calories": 93.6,
+      "fat": 0.31,
+      "saturatedFat": 0.05,
+      "carbohydrates": 24.86,
+      "netCarbohydrates": 20.54,
+      "sugar": 18.7,
+      "cholesterol": 0,
+      "sodium": 1.8,
+      "protein": 0.47,
+      "quantity": 1,
+      "id": 1
+    },
+    {
+      "apiId": 1015006,
+      "userId": 1,
+      "name": "chicken meat",
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/chicken-breasts.png",
+      "calories": 387,
+      "fat": 27.11,
+      "saturatedFat": 7.76,
+      "carbohydrates": 0,
+      "netCarbohydrates": 0,
+      "sugar": 0,
+      "cholesterol": 135,
+      "sodium": 126,
+      "protein": 33.48,
+      "quantity": 1,
+      "id": 2
+    },
+    {
+      "apiId": 23232,
+      "userId": 1,
+      "name": "steaks",
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/ribeye-raw.jpg",
+      "calories": 374.4,
+      "fat": 25.45,
+      "saturatedFat": 11.32,
+      "carbohydrates": 0,
+      "netCarbohydrates": 0,
+      "sugar": 0,
+      "cholesterol": 109.8,
+      "sodium": 93.6,
+      "protein": 36.22,
+      "quantity": 1,
+      "id": 3
+    },
+    {
+      "apiId": 9148,
+      "userId": 1,
+      "name": "kiwis",
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/kiwi.png",
+      "calories": 109.8,
+      "fat": 0.94,
+      "saturatedFat": 0.05,
+      "carbohydrates": 26.39,
+      "netCarbohydrates": 20.99,
+      "sugar": 16.18,
+      "cholesterol": 0,
+      "sodium": 5.4,
+      "protein": 2.05,
+      "quantity": 1,
+      "id": 4
+    }
+  ]
+}
